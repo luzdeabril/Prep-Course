@@ -77,7 +77,7 @@ function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (str1.lenght === str2.lenght) {
+  if (str1.length === str2.length) {
     return true
   }
   return false
@@ -163,7 +163,7 @@ function redondearNumero(num) {
 function redondearHaciaArriba(num) {
   // Redondea "num" hacia arriba (al próximo entero) y devuélvelo
   // Tu código:
-  return Math.floor(num)
+  return Math.ceil(num)
   
 }
 
@@ -210,7 +210,7 @@ function obtenerSaludo(nombre) {
   // Toma la string "nombre" y concatena otras string en la cadena para que tome la siguiente forma:
   // "Martin" -> "Hola Martin!"
   // Tu código:
-  return 'Hola ' + nombre
+  return 'Hola ' + nombre + '!'
   
 }
 
