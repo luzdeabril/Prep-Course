@@ -1,0 +1,18 @@
+Variables:
+una variable es espacio, que recibe un nombre, en donde se almacena un dato con el fin de utilizarlo mas adelante en la
+ejecución de un programa, y que puede variar
+
+Strings:
+un string es uno, ninguno o varios caracteres fijos, que no cambian; pueden contener letras, numeros o simbolos y van entre
+comillas ('')
+
+Funciones (argumentos, return):
+las funciones son codigos que ejecutan una operacion o accion y pueden ser invocados. estos contienen argumentos, que son
+variables que sirven dentro de la función. para que un dato puedo salir de una funcion debe utilizarse return, que 
+indica lo que la funcion tiene que devolver
+
+Declaraciones if
+If es un statement que ejecuta un codigo si la expresion que se indica entre parentesis es verdadera
+
+Valores booleanos (true, false)
+los valores booleanos son los que representan la logica binaria, es decir activar o desactivar, 0 o 1, verdadero o falso
