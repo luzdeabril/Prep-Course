@@ -1,0 +1,11 @@
+for:
+es un comando que hace que se ejecute un código varias veces hasta que una condicion no sea verdadera
+
+&&:
+es un operador que retorna verdadero sólo si todas las expresiones son verdaderas, si alguna de ellas es falsa, este operador devolverá false
+
+||:
+es un operador que retorna verdadero si alguna de las expresiones es verdadera, y solo si todas son falsas, devolverá false
+
+!:
+es un operador que retorna verdadero si la expresion es falsa, y retorna falso si la expresion es verdadera
