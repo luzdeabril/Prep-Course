@@ -1,0 +1,4 @@
+Array:
+es una lista ordenada de datos, pueden ser numeros, stings, valores booleanos, funciones
+e incluso otros arrays; estos van entre brakets [] y cada dato va separado por una coma
+(,)
