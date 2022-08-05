@@ -1,0 +1,24 @@
+Objetos:
+son listas donde cada uno de sus elementos tiene un nombre clave (llamado propiedad)
+y un valor (que puede ser cualquier tipo de dato), se instancian con corchetes {}
+
+Propiedades:
+son elementos dentro de un objeto que tienen un valor, tienen un nombre clave para ser
+identificados y su valor puede ser cualquier dato, incluso matrices o funciones
+
+Métodos:
+son las prepiedades cuyo valor es una función
+
+Bucle for...in:
+es un bucle que se utiliza para afectar dentro de cada propiedad en un objeto;
+se define una variable que se refiere a las propiedades dentro del objeto y se accede
+al valor escribiendo el nombre de la variable entre brakets; estos bucles se detienen
+cuando haya itinerado en cada propiedad del objeto
+
+Notación de puntos vs notación de corchetes:
+para acceder a una propiedad de un objeto se pueden usar ambas notaciones:
+la notación de corchetes, que requiere que se escriba el nombre de la propiedad como
+un string dentro del corchete o una variable que contenga el nombre de la propiedad;
+y la notación de puntos, que es más directa y requiere menos código para funcionar,
+pero solo funciona si el nombre de la propiedad es igual a lo que se escribe despues
+del punto
